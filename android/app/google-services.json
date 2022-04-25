@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "725403647511",
+    "firebase_url": "https://pikpak-2be40.firebaseio.com",
+    "project_id": "pikpak-2be40",
+    "storage_bucket": "pikpak-2be40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725403647511:android:f98288e9bec1f94f",
+        "android_client_info": {
+          "package_name": "com.os.pikpak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725403647511-43c8pbhl9asndvll8kjt3s86kiq0lcsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.os.pikpak",
+            "certificate_hash": "22f6a4048d3effdfc0ed8e275675ec5ea5a8a43d"
+          }
+        },
+        {
+          "client_id": "725403647511-ea1h5t0euknh0uqi0hnbh1p8v1ec4gi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.os.pikpak",
+            "certificate_hash": "c7d6b0e68a753c945b0a2683c5a93fc848d8ecc9"
+          }
+        },
+        {
+          "client_id": "725403647511-pvgh28u0vp7bi73e810u20gipjp8nljn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.os.pikpak",
+            "certificate_hash": "89edab9b58ea294e75d53af05815499b4d1a8eee"
+          }
+        },
+        {
+          "client_id": "725403647511-un6nl92mupj7c9f8i8gp1j21082tum29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.os.pikpak",
+            "certificate_hash": "a81bea7f4fce20aa96842ba7e49748bb52073bc6"
+          }
+        },
+        {
+          "client_id": "725403647511-fuoij8tddnobvib8f735dp567h8ludp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_zDIdXayzjr5UdN5lvRZhdRFL453BB5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725403647511-3vo73n0gm49p010fk7c5fvq043d2j7uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725403647511:android:1ec5f62040c8ca8fede652",
+        "android_client_info": {
+          "package_name": "com.pikpak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725403647511-fuoij8tddnobvib8f735dp567h8ludp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_zDIdXayzjr5UdN5lvRZhdRFL453BB5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725403647511-3vo73n0gm49p010fk7c5fvq043d2j7uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
