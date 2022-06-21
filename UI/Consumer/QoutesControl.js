@@ -52,7 +52,7 @@ export default class QoutesControl extends Component {
                LeftIconVisible = {true} RightIconVisible = {false}
                LeftIconName = {'angle-left'} LeftIconColor = {'#FFF'}
                LeftIconType = {'font-awesome'} LeftIconSize = {wp('6%')}
-               LeftIconFunction = {()=>{this.props.navigation.goBack()}}
+               LeftIconFunction = {()=>{this.props.navigation.replace('MyQoutes')}}
                 />
 
 {/* <ScrollView> */}

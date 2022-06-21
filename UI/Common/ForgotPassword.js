@@ -51,13 +51,13 @@ const ChangePassword = (props) => {
         {
 
           console.log('Logout Successfully...')
-          Toast.show(response.data.message)
+          Toast.show(response.data.message,Toast.LONG)
           props.navigation.replace('SignUpIn')
 
         }
         else
         {
-          Toast.show(response.data.message)
+          Toast.show(response.data.message,Toast.LONG)
         }
         
         setLoader_Visible(false)

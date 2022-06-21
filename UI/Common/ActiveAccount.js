@@ -43,7 +43,7 @@ const ChangePassword = (props) => {
     axios.get(APIMaster.URL + APIMaster.ProfessionalDetail.GetProfessionalDetail + LoginData.user_id, axiosConfig)
     .then((response)=> {
 
-      Toast.show(response.data.message)
+      Toast.show(response.data.message,Toast.LONG)
       LoginData.status = response.data.status;
       if(response.data.status == 0 && (LoginData.role == 'provider'))
        {
